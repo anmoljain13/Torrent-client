@@ -1,0 +1,16 @@
+
+node_modules/.package-lock.json
+node_modules/bencode/.editorconfig
+node_modules/bencode/CHANGELOG.md
+node_modules/bencode/CONTRIBUTORS
+node_modules/bencode/lib/decode.js
+node_modules/bencode/lib/encode.js
+node_modules/bencode/lib/index.js
+node_modules/bencode/LICENSE.md
+node_modules/bencode/package.json
+node_modules/bencode/README.md
+node_modules/safe-buffer/index.d.ts
+node_modules/safe-buffer/index.js
+node_modules/safe-buffer/LICENSE
+node_modules/safe-buffer/package.json
+node_modules/safe-buffer/README.md
