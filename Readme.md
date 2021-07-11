@@ -1,0 +1,1 @@
+to get info from tracker is 4 step process and first we send connection request then we get connnection responce and then parsing that we build announce request which is answered by announce responce and it contains peers list
